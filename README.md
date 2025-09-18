@@ -57,7 +57,7 @@ pip install battery-mcp
 After installation, you can run it as a script using:
 
 ```
-python -m battery-mcp
+python -m battery_mcp
 ```
 
 ### Running with streamable-http
@@ -65,7 +65,7 @@ python -m battery-mcp
 You can also deploy mcp as http server with streamable-http transport protocol
 
 ```
-python -m battery-mcp --transport http --http-host 0.0.0.0 --http-port 8080
+python -m battery_mcp --transport http --http-host 0.0.0.0 --http-port 8080
 ```
 
 or using `uvx`
