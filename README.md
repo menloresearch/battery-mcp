@@ -2,6 +2,8 @@
 
 A Model Context Protocol server that provides battery materials validation capabilities. This server enables LLMs to verify invented bettery materials are novel and valid or not.
 
+![Image](./assets/image.png)
+
 > [!CAUTION]
 > This server can access local/internal IP addresses and may represent a security risk. Exercise caution when using this MCP server to ensure this does not expose any sensitive data.
 
