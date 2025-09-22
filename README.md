@@ -1,6 +1,6 @@
-# Battery MCP Server
+# Material Project MCP Server
 
-A Model Context Protocol server that provides battery materials validation capabilities. This server enables LLMs to verify invented bettery materials are novel and valid or not.
+A Model Context Protocol server that provides materials validation capabilities. This server enables LLMs to verify invented materials are novel and valid or not. We currently support cathode battery materials.
 
 <div align="center">
   <img src="./assets/image.png" alt="Image" width="50%">
